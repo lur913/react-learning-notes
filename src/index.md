@@ -4,14 +4,17 @@ layout: home
 
 hero:
   name: "React Learning Notes"
-  text: "React learning notes generated with the help of AI"
+  text: "React learning notes generated with AI"
   tagline: My great project tagline
+  image:
+    src: /noto--camping.png
+    alt: React Learning Notes
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 阅读笔记
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: API 解读
       link: /api-examples
 
 features:
