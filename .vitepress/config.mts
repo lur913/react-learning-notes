@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "React Learning Notes",
   description: "React learning notes generated with the help of AI",
+  base: '/react-learning-notes/',
   srcDir: './src',
   themeConfig: {
     logo: '/logo.svg',
