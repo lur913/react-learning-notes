@@ -161,7 +161,7 @@ export default function Profile() {
 | 类名属性 | `class` | `className` |
 | For属性 | `for` | `htmlFor` |
 | 事件处理 | `onclick="handler()"` | `onClick={handler}` |
-| 样式属性 | `style="color: red"` | `style={{ color: 'red' }}` |
+| 样式属性 | `style="color: red"` | <span v-pre>`style={{ color: 'red'}}`</span> |
 
 ## 💡 最佳实践
 

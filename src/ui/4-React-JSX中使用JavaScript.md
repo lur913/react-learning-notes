@@ -159,7 +159,7 @@ const person = {
 - 🧩 **数据类型**：
   - 字符串用引号：`alt="描述"`
   - 其他值用大括号：`src={avatar}`
-  - 对象需要双大括号：`style={{ color: 'red' }}`
+  - 对象需要双大括号：<span v-pre>`style={{ color: 'red' }}`</span>
 - ⚠️ **关键注意点**：
   - 只能使用表达式，不能使用语句
   - CSS属性使用驼峰命名法
