@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: 阅读笔记
-      link: /markdown-examples
+      link: /ui/1-React-第一个组件
     - theme: alt
       text: API 解读
-      link: /api-examples
+      link: /api/placeholder
 
 features:
   - title: Feature A
