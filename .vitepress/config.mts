@@ -12,7 +12,7 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '指南', link: '/ui/1-React-第一个组件' },
+      { text: '指南', link: '/ui/1-React-第一个组件', activeMatch: '/ui|interaction|state|escape/' },
       { text: 'API解读', link: '/api/placeholder' },
     ],
 
