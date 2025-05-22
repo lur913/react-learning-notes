@@ -7,7 +7,7 @@ hero:
   text: "React learning notes generated with AI"
   tagline: My great project tagline
   image:
-    src: /hero.png
+    src: /logo.png
     alt: React Learning Notes
   actions:
     - theme: brand
