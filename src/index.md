@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "React Learning Notes"
-  text: "React learning notes generated with AI"
-  tagline: My great project tagline
+  text: "去繁就简，快速掌握 React 19 核心概念"
+  tagline: 告别枯燥冗长的官方文档，专注核心知识点
   image:
     src: /logo.png
     alt: React Learning Notes
@@ -18,11 +18,11 @@ hero:
       link: /api/placeholder
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 📚 知识点提炼
+    details: 将官方文档的冗长内容精炼为要点，每个概念都配有清晰的代码示例和图标标识，让学习更加直观高效
+  - title: 🗺️ 结构化学习路径
+    details: 严格按照 React 19 官方文档的章节顺序组织内容，从组件基础到高级模式，循序渐进的知识体系
+  - title: ⚡ 快速复习
+    details: 针对复习场景优化的内容组织，重点突出、条理清晰，帮您在最短时间内回顾和巩固 React 核心概念
 ---
 
