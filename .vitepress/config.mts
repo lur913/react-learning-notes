@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "React Learning Notes",
-  description: "React learning notes generated with the help of AI",
+  description: "去繁就简，快速掌握 React 19 核心概念",
   head: [
     ["link", { rel: "icon", type: "image/svg+xml", href: "/logo.svg" }],
     // google analytics 添加 谷歌分析
