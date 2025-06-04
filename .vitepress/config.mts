@@ -6,6 +6,7 @@ export default defineConfig({
   description: "去繁就简，快速掌握 React 19 核心概念",
   head: [
     ["link", { rel: "icon", type: "image/svg+xml", href: "/logo.svg" }],
+    ["meta", { name: "baidu-site-verification", content: "codeva-2UoDvTjQL9" }],
     // google analytics 添加 谷歌分析
     [
       "script",
