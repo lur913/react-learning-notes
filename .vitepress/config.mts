@@ -26,6 +26,10 @@ export default defineConfig({
 
   // base: '/react-learning-notes/',
   srcDir: "./src",
+  sitemap: {
+    hostname: 'https://react.luryan.me'
+  },
+  lastUpdated: true,
   themeConfig: {
     logo: "/logo.svg",
     outline: {
